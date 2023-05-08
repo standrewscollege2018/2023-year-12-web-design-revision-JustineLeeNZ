@@ -16,3 +16,8 @@
     padding-top: 2px;
     padding-bottom: 20px;
  }
+
+ img {
+    width: 300px;
+    border-radius: 20%;
+ }
