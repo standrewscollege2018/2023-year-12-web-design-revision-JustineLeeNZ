@@ -21,3 +21,11 @@
     width: 300px;
     border-radius: 20%;
  }
+
+ a {
+    color: #F57E12;
+ }
+
+ a:visited {
+    color: #F57E12;
+ }
