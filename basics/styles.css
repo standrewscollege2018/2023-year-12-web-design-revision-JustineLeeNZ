@@ -11,3 +11,8 @@
     color: #F57E12;
     font-size: 30pt;
  }
+
+ p {
+    padding-top: 2px;
+    padding-bottom: 20px;
+ }
